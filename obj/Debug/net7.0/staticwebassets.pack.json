@@ -1,0 +1,633 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\canalsat.bundle.scp.css",
+      "PackagePath": "staticwebassets\\canalsat.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\css\\apexcharts.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\css\\app-dark.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\app-light.css",
+      "PackagePath": "staticwebassets\\css\\app-light.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\app-rtl.css",
+      "PackagePath": "staticwebassets\\css\\app-rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\css\\dropzone.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\feather.css",
+      "PackagePath": "staticwebassets\\css\\feather.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\css\\jquery.steps.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\main.css",
+      "PackagePath": "staticwebassets\\css\\main.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\css\\quill.snow.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\select2.css",
+      "PackagePath": "staticwebassets\\css\\select2.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\css\\simplebar.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\uppy.min.css",
+      "PackagePath": "staticwebassets\\css\\uppy.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\css\\util.css",
+      "PackagePath": "staticwebassets\\css\\util.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\js\\Chart.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\apexcharts.custom.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.custom.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\apps.js",
+      "PackagePath": "staticwebassets\\js\\apps.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\config.js",
+      "PackagePath": "staticwebassets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\d3.min.js",
+      "PackagePath": "staticwebassets\\js\\d3.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\datamaps-zoomto.js",
+      "PackagePath": "staticwebassets\\js\\datamaps-zoomto.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\js\\datamaps.all.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\datamaps.custom.js",
+      "PackagePath": "staticwebassets\\js\\datamaps.custom.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\fullcalendar.custom.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.custom.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\gauge.min.js",
+      "PackagePath": "staticwebassets\\js\\gauge.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.mask.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.stickOnScroll.js",
+      "PackagePath": "staticwebassets\\js\\jquery.stickOnScroll.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.timepicker.js",
+      "PackagePath": "staticwebassets\\js\\jquery.timepicker.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\js\\quill.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\js\\select2.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\tinycolor-min.js",
+      "PackagePath": "staticwebassets\\js\\tinycolor-min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\topojson.min.js",
+      "PackagePath": "staticwebassets\\js\\topojson.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\js\\uppy.min.js",
+      "PackagePath": "staticwebassets\\js\\uppy.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\animsition\\css\\animsition.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\animsition\\css\\animsition.min.css",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\css\\animsition.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\animsition\\js\\animsition.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\animsition\\js\\animsition.min.js",
+      "PackagePath": "staticwebassets\\vendor\\animsition\\js\\animsition.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\countdowntime\\countdowntime.js",
+      "PackagePath": "staticwebassets\\vendor\\countdowntime\\countdowntime.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\daterangepicker\\moment.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\daterangepicker\\moment.min.js",
+      "PackagePath": "staticwebassets\\vendor\\daterangepicker\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\vendor\\perfect-scrollbar\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "D:\\Document\\TECHNO\\dotNET\\canalsat\\wwwroot\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.canalsat.props",
+      "PackagePath": "build\\canalsat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.canalsat.props",
+      "PackagePath": "buildMultiTargeting\\canalsat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.canalsat.props",
+      "PackagePath": "buildTransitive\\canalsat.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.canalsat.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

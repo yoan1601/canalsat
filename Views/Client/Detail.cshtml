@@ -1,0 +1,126 @@
+@using MyApp.Models
+
+@{
+    var details = ViewData["details"] as List<MyApp.Models.ClientListe>;
+    var abonnements = ViewData["abs"] as List<MyApp.Models.AbonnementDispo>;
+    var client = ViewData["client"] as MyApp.Models.Client;
+    var abonnement = new Abonnement();
+    var abEnCours = ViewData["abEnCours"] as MyApp.Models.Abonnement;
+}
+
+<h1>Detail client @details[0].client.nom</h1>
+<h3>Region @client.region.description</h3>
+<h4>Taux de reception  @client.region.t_reception_signal</h4>
+@if(abEnCours != null) {
+    <h3>Abonnement en cours  @abEnCours.description </h3>
+    <h3>Prix remisé  @abEnCours.getPrixRemise() </h3>
+}
+else {
+    <h3>Pas d'abonnement en ce moment</h3>
+}
+<div class="limiter">
+<table class="table table-borderless table-hover">
+    <thead>
+        <tr>
+            <th>situation</th>
+            <th>Abonnement</th>
+            <th>date debut</th>
+            <th>date fin</th>
+            <th>detail bouquet</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var detail in @details)
+        {
+            <tr>
+                <td>
+                    <p class="mb-0 text-muted">
+                    @if(@detail.situation == 1) {
+                        <strong>Prochainement</strong>
+                    }
+                    else if(@detail.situation == -1) {
+                        <strong>Passé</strong>
+                    }
+                    else {
+                        <strong>En cours</strong>
+                    }
+                    </p>
+                </td>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @detail.abonnement.description
+                        </strong></p>
+                </td>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @detail.dateDeb.ToString("dd/MM/yyyy")
+                        </strong></p>
+                </td>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @detail.dateFin.ToString("dd/MM/yyyy")
+                        </strong></p>
+                </td>
+                <td><a class="nav-link text-dark" asp-area="" asp-controller="Client" asp-action="Index">
+                        . . .
+                    </a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
+<h2>Réabonnement</h2>
+<div class="limiter">
+    <button class="btn btn-primary" type="submit" asp-area="" asp-controller="Client" asp-action="Abonnement_perso" asp-route-idclient="@client.id">Bouquet personnalisé</button>
+</div>
+<div class="limiter">
+    <table class="table table-borderless table-hover">
+    <thead>
+        <tr>
+            <th>Bouquet</th>
+            <th>Signal minimum</th>
+            <th>Prix total </th>
+            <th>Remise </th>
+            <th>Prix remise </th>
+            <th>s'abonner</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var ab in @abonnements)
+        {   
+            <tr>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @ab.abonnement.description
+                        </strong></p>
+                </td>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @ab.signalMin
+                        </strong></p>
+                </td>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @ab.abonnement.getPrixTotal()
+                        </strong></p>
+                </td>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @ab.abonnement.remise.remise %
+                        </strong></p>
+                </td>
+                <td>
+                    <p class="mb-0 text-muted"><strong>
+                            @ab.abonnement.getPrixRemise()
+                        </strong></p>
+                </td>
+                <td>
+                    <a class="nav-link text-dark" asp-area="" asp-controller="Client" asp-action="Abonnement" asp-route-idclient="@client.id" asp-route-idab="@ab.abonnement.id">
+                        <p>s abonner</p>
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>
